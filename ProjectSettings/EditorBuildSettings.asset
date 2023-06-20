@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PolygonStarter/Scenes/Demo.unity
+    guid: 00000000000000000000000000000000
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 23f4bfcc6525b8e4592deeb8e21d0f92, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a8af82a2beb070b46885be6bebd27b2a, type: 2}
